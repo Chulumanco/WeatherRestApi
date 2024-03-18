@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4v42R90ZhhJVHvccCNepvc7WNeIoAjdYeRFlt5nvktk=",
+  "Source": "WeatherRest",
+  "BasePath": "_content/WeatherRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
