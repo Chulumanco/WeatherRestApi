@@ -15,6 +15,7 @@ Copy code
 git clone https://github.com/Chulumanco/WeatherRestApi.git
 Running the Application
 To run the application locally, follow these steps:
+Go To appsettings and change the connectionstring tou your local machine
 
 Navigate to the project directory:
 bash
@@ -23,7 +24,9 @@ cd WeatherRestApi
 Run the application using the following command:
 bash
 Copy code
-dotnet run
+#rebiuld solution
+#dotnet run
+This automaticaly runs migrations
 
 
 Application Structure
